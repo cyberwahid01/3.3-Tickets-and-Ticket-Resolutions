@@ -1,1 +1,4 @@
-# 3.3-Tickets-and-Ticket-Resolutions
+- <b>3. Working Tickets: 1. Finance Department Ticket | 2. Adobe Upgrade Ticket | 3. CFO Laptop Ticket 🪟</b>
+  - [1 - Finance Department Ticket](https://github.com/cyberwahid01/3.3.1-Finance-Department-Ticket)
+  - [2 - Adobe Upgrade Ticket](https://github.com/cyberwahid01/3.3.2-Adobe-Upgrade-Ticket)
+  - [3 - CFO Laptop Ticket](https://github.com/cyberwahid01/3.3.3-CFO-Laptop-Ticket)
